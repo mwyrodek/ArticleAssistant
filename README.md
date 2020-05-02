@@ -1,2 +1,2 @@
-# ArticleAssistant
-Small Application for managing urls to articles and generating data from templates
+# ArticleAssistant [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X7X5144XE) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=mwyrodek_ArticleAssistant&metric=alert_status)](https://sonarcloud.io/dashboard?id=mwyrodek_ArticleAssistant)[![Build Status](https://dev.azure.com/maciejwyrodek/MindMapSearchTool/_apis/build/status/mwyrodek.mindmap-serach-cli?branchName=master)](https://dev.azure.com/maciejwyrodek/MindMapSearchTool/_build/latest?definitionId=7&branchName=master)
+Small Application for managing urls to articles and generating data from templates 

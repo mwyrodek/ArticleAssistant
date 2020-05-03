@@ -1,6 +1,6 @@
 namespace ArticleAssistant.Data.Model
 {
-    public class WeekAggragate
+    public class WeekAggregate
     {
         public int Id { get; set; }
 

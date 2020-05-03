@@ -131,6 +131,7 @@
         <e p="ArticleAssistant.db" t="Include" />
         <e p="ArticleAssistantContext.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
+        <e p="InitialData.cs" t="Include" />
         <e p="Migrations" t="Include">
           <e p="20200503103227_InitialCreate.cs" t="Include" />
           <e p="20200503103227_InitialCreate.Designer.cs" t="Include" />
@@ -142,10 +143,10 @@
           <e p="Category.cs" t="Include" />
           <e p="CategoryArticleMap.cs" t="Include" />
           <e p="Episode.cs" t="Include" />
-          <e p="EpisodeWeekAggagateMap.cs" t="Include" />
+          <e p="EpisodeWeekAggregateMap.cs" t="Include" />
           <e p="Tag.cs" t="Include" />
           <e p="TagArticleMap.cs" t="Include" />
-          <e p="WeekAggragate.cs" t="Include" />
+          <e p="Weekaggregate.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
